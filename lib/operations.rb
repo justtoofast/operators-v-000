@@ -1,1 +1,3 @@
+def unsafe?(speed)
 
+end
